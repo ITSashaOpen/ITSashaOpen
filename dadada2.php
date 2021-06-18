@@ -2,7 +2,6 @@
 
 echo 'kak dela';
 echo 'dadada2';
-echo 123333;
-echo 'nornalno';
-echo 123;
+echo 65;
 echo 454;
+echo 335345;
